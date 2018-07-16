@@ -1,3 +1,3 @@
 # gittutorial
-explore github features
-\n added new row for testing
+explore github features.
+added new row for testing.
